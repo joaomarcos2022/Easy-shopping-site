@@ -22,3 +22,9 @@
   width: 40%;
   position: absolute;
 }
+
+img {
+  position: relative;
+  top: 25%;
+  right: 130px;
+}
