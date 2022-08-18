@@ -3,6 +3,8 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  color: #5d5d7d;
 }
 
 .wrapper {
@@ -30,5 +32,6 @@ img {
 }
 
 h1 {
-  
+  font-size: 70px;
+  line-height: 80px;
 }
